@@ -37,8 +37,12 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
 </div>
   
   ### Últimos Projetos:
-- [Motion Project - After Effects](https://www.linkedin.com/posts/kadu-editing_motiondesign-project-aftereffects-activity-6949106581699497984-r8Af/?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+- [Flutter Application - Quizz](https://github.com/kaduediting/ProjetoQuizz)<br/>  
+
 - [Layout Web Page and App](https://www.linkedin.com/posts/kadu-editing_webdesigner-layout-app-activity-6949104357678178304-DbXW?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+
+- [Motion Project - After Effects](https://www.linkedin.com/posts/kadu-editing_motiondesign-project-aftereffects-activity-6949106581699497984-r8Af/?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+
 
 ### Experiência com Design Gráfico e Produção de Vídeos:
 - 🎥 Atualmente atuo como Editor de Vídeo na Empresa [Arazo Media](https://www.linkedin.com/company/arazo/)<br/>
