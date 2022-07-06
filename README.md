@@ -20,10 +20,7 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
   <img align="center" alt="Kadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kadu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kadu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Kadu-After" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="Kadu-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="Kadu-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Kadu-pic" height="150" style="border-radius:50px;" 
        src="https://i.pinimg.com/564x/ed/42/3c/ed423c7af46a9a6feb59b04bb0e8171f.jpg">
 </div>
   
@@ -43,4 +40,16 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
 - [Motion Project - After Effects](https://www.linkedin.com/posts/kadu-editing_motiondesign-project-aftereffects-activity-6949106581699497984-r8Af/?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 - [Layout Web Page and App](https://www.linkedin.com/posts/kadu-editing_webdesigner-layout-app-activity-6949104357678178304-DbXW?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 
+### Experiência com Design Gráfico e Produção de Vídeos:
+- 🎥 Atualmente atuo como Editor de Vídeo na Empresa [Arazo Media](https://www.linkedin.com/company/arazo/)<br/>
 
+Softwares:
+Adobe After Effects | Premiere Pro | Photoshop
+
+- [Portfólio](https://drive.google.com/drive/folders/1FhwInan69IwcyAF3-4PPQb_dJ2txByg5?usp=sharing)<br/>
+
+  <img align="center" alt="Kadu-After" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  
+  <img align="center" alt="Kadu-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+  
+  <img align="center" alt="Kadu-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">  
