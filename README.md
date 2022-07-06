@@ -1,10 +1,11 @@
-### Olá! Eu sou o Carlos Eduardo
+### Olá! Eu sou o Carlos Eduardo 🖐️
 
 Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e Mobile. Tenho experiência com projetos usando Flutter, Dart, Java, Python, HTML e CSS. Estou no momento estudando e aprendendo mais sobre o Desenvolvimento de Interface de Usuário com a tecnologia do Flutter 👩‍💻
 
 - 🔭 Hoje trabalho como freelancer na áreas de Produção de Vídeos e Design Gráfico
 - 🌱 Estudando para ser um Desenvolvedor Mobile - Flutter
 - 🎓 Cursando 6º Período de Ciências da Computação
+- 🖤 Apaixonado por Tecnologia
 
 <div align="center">
   <a href="https://github.com/kaduediting">
@@ -36,3 +37,9 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
   ![Snake animation](https://github.com/kaduediting/kaduediting/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ### Últimos Projetos:
+- [Motion Project - After Effects](https://www.linkedin.com/posts/kadu-editing_motiondesign-project-aftereffects-activity-6949106581699497984-r8Af/?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+- [Layout Web Page and App](https://www.linkedin.com/posts/kadu-editing_webdesigner-layout-app-activity-6949104357678178304-DbXW?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+
+
