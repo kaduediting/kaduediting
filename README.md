@@ -23,7 +23,8 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
   <img align="center" alt="Kadu-After" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="Kadu-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Kadu-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/1f/ae/65/1fae65f1f8a4d5818ccd3df03f8105d1.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+       src="https://i.pinimg.com/564x/ed/42/3c/ed423c7af46a9a6feb59b04bb0e8171f.jpg">
 </div>
   
 ##
