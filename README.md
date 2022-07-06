@@ -45,7 +45,7 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
 
 
 ### Experiência com Design Gráfico e Produção de Vídeos:
-- 🎥 Atualmente atuo como Editor de Vídeo na Empresa [Arazo Media](https://www.linkedin.com/company/arazo/)<br/>
+- 🎥 Atualmente atuo como Editor de Vídeo na Empresa [Arazo Media](https://www.arazomedia.com)<br/> no departamento [Arazo Weddings](https://www.arazoweddings.com)<br/>
 
 Softwares:
 Adobe After Effects | Premiere Pro | Photoshop
