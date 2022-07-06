@@ -20,8 +20,7 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
   <img align="center" alt="Kadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kadu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kadu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Kadu-pic" height="150" style="border-radius:50px;" 
-       src="https://i.pinimg.com/564x/ed/42/3c/ed423c7af46a9a6feb59b04bb0e8171f.jpg">
+<img align="right" alt="logo-kadu"  width="330" src="https://user-images.githubusercontent.com/92191800/173620239-488926cf-9aea-4fd7-bc39-3944c07068a1.png">
 </div>
   
 ##
