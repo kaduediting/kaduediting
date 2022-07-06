@@ -9,8 +9,8 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
 
 <div align="center">
   <a href="https://github.com/kaduediting">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=kaduediting&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduediting&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=kaduediting&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduediting&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kadu-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -20,7 +20,7 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
   <img align="center" alt="Kadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kadu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kadu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="right" alt="logo-kadu"  width="330" src="https://user-images.githubusercontent.com/92191800/173620239-488926cf-9aea-4fd7-bc39-3944c07068a1.png">
+<img align="right" alt="logo-kadu"  width="330" src="https://github.com/kaduediting/kaduediting/blob/main/.github/workflows/computer.png">
 </div>
   
 ##
