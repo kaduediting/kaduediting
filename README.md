@@ -1,6 +1,6 @@
 ### Olá! Me chamo Carlos Eduardo <img width="25" src="https://raw.githubusercontent.com/luizfranzon/luizfranzon/main/media/outros/Hi.gif">
 
-Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e Mobile. Tenho experiência com projetos usando Flutter, Dart, Java, Python, C, C++, HTML, CSS, Banco de Dados - MySQL. No momento estou estudando e aprendendo mais sobre o Desenvolvimento de Interface de Usuário com a Tecnologia do Flutter 👩‍💻
+Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e Mobile. Tenho experiência com projetos usando Flutter, Dart, Java, Python, C, C++, HTML, CSS e Banco de Dados - MySQL. No momento estou estudando e aprendendo mais sobre o Desenvolvimento de Interface de Usuário com a Tecnologia do Flutter 👩‍💻
 
 - 🔭 Hoje trabalho como freelancer na áreas de Produção de Vídeos e Design Gráfico
 - 🌱 Estudando para ser um Desenvolvedor Mobile - Flutter
