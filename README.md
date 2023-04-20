@@ -6,7 +6,7 @@ Sou um estudante apaixonado pelas melhores tecnologias de desenvolvimento Web e 
 
 - 🔭 Hoje trabalho como freelancer na áreas de Produção de Vídeos e Design Gráfico
 - 🌱 Estudando para ser um Desenvolvedor Mobile - Flutter
-- 🎓 Cursando 6º Período de Ciências da Computação
+- 🎓 Cursando 7º Período de Ciências da Computação
 - 🖤 Apaixonado por Tecnologia
 
 <div align="center">
